@@ -13,5 +13,5 @@ My repository of my visulisations and analyses along with their script, for #Tid
 
 ## 25-10-22 Great British Bake off
 
-![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo2.png)
+![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo3.png)
 
