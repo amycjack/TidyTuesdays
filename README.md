@@ -4,7 +4,7 @@ My repository of my visulisations and analyses along with their script, for #Tid
 
 ## 24-01-23 Survivor
 
-![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/24.01.23%20Survivor/Rplot02.tiff)
+![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/24.01.23%20Survivor/Rplot03.png)
 
 ## 08-11-22 Radio stations
 
