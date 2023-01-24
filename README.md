@@ -2,6 +2,10 @@
 
 My repository of my visulisations and analyses along with their script, for #TidyTuesday. 
 
+## 24-01-23 Survivor
+
+![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/24.01.23%20Survivor/Rplot02.tiff)
+
 ## 08-11-22 Radio stations
 
 ![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/08.11.22%20Radio%20Stations/map10112022.png)
