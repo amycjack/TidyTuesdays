@@ -1,6 +1,10 @@
 data <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-01-24/survivalists.csv')
 loadouts <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-01-24/loudouts.csv')
 
+library(tidyverse)
+library(ggplot2)
+library(ggtext)
+
 total <- merge(data,loadouts,by="name")
 
 freq <- total %>%
