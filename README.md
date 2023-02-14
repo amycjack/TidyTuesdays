@@ -4,7 +4,7 @@ My repository of my visulisations and analyses along with their script, for #Tid
 
 ## 14-02-23 Hollywood Age Gaps
 
-![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/24.01.23%20Survivor/Rplot03.png)
+![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/14.02.23%20Hollywood%20Age%20Gaps/gg214022023.png)
 
 ## 24-01-23 Survivor
 
