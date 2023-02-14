@@ -47,10 +47,10 @@ gg <- ggplot(df, aes(x=women_avg_age, xend=man_avg_age, y=release_year)) +
                 colour_x = "#EE7523", 
                 colour_xend = "#6D3A5D",
                 dot_guide=FALSE) +
-  geom_text(data=filter(df6, release_year=="2022"),
+  geom_text(data=filter(df, release_year=="2022"),
             aes(x=women_avg_age, y=release_year, label="Women"),
             color="#EE7523", size=2, vjust=-1.2, fontface="bold", family="Lato") +
-  geom_text(data=filter(df6, release_year=="2022"),
+  geom_text(data=filter(df, release_year=="2022"),
             aes(x=man_avg_age, y=release_year, label="Men"),
             color="#6D3A5D", size=2, vjust=-1.2, fontface="bold", family="Lato") +
   geom_rect(data=df, aes(xmin=52, xmax=54, ymin=-Inf, ymax=Inf), fill="#efefe3") +
