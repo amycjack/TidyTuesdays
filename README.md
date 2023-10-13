@@ -2,9 +2,13 @@
 
 My repository of my visulisations and analyses along with their script, for #TidyTuesday. 
 
+## 10-10-23 Haunted Locations
+![This is an image](
+
+
 ## 14-02-23 Hollywood Age Gaps
 
-![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/14.02.23%20Hollywood%20Age%20Gaps/gg214022023.png)
+![This is an image](https://github.com/amycjack/TidyTuesdays/blob/main/10.10.23%20Haunted%20Locations/plot13102023.png)
 
 ## 24-01-23 Survivor
 
